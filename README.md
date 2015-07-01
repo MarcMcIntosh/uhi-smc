@@ -1,2 +1,0 @@
-# uhi-smc
-uni
