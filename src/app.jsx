@@ -32,6 +32,8 @@ var Home = React.createClass({
         <p>To install the projects dependacies and then run the development server with </p> 
         <Well> gulp </Well> 
         <p> Open your web-browser and go to <a href="http://localhost:3000" target="_blank">localhost:3000</a>. If every this has worked you should see this page, if not check the output of the gulp command and/or use the browsers webtools (press F12 on firefox to use web-bug) to trouble shoot the page by refreshing.</p>
+        <p>Deploy to git hub</p>
+        <Well> gulp deploy</Well>
 
         <PageHeader>Change things</PageHeader>
         <p>Folder/file stucture and useage</p>
